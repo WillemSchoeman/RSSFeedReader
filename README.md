@@ -9,7 +9,7 @@ The app also utilises a dropdown menu to switch between categories.
 
 **Screenshots from the RSSFeedReader:**
 
-<img src="app/Screenshots/LandingPage.jpg" width="300">
+<img src="app/src/main/Screenshots/MoviesPage.jpg" width="250"> <img src="app/src/main/Screenshots/Apps.jpg" width="250"> <img src="app/src/main/Screenshots/Menu.jpg" width="250">
 
 
 
